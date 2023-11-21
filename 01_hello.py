@@ -1,0 +1,5 @@
+a=int (input("ener the num"))
+b=int (input("enter another num"))
+print("the sum of two num is",a+b)
+print("the number",a/b)
+print("the new value is",b%a)
